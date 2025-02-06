@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace LeetCode
 {
-    public class Solutions
+    public static class Solutions
     {
-        public int[] TwoSum(int[] nums, int target)
+
+        public static int[] TwoSum(int[] nums, int target)
         {
             Dictionary<int, int> dict = new Dictionary<int, int>();
             for (int i = 0; i < nums.Length; i++)
