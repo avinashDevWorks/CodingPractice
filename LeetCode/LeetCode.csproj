@@ -42,6 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddTwoNumLL.cs" />
+    <Compile Include="AllDivisors.cs" />
+    <Compile Include="ArmstrongNumber.cs" />
+    <Compile Include="LongestNonRepeatingSubstring.cs" />
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="TwoSomeSolution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
